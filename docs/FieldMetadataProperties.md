@@ -1,0 +1,32 @@
+# FieldMetadataProperties
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**control_type** | **str** |  | [optional] 
+**data_type** | **str** |  | [optional] 
+**display_name** | **str** |  | [optional] 
+**display_name_id** | **str** |  | [optional] 
+**false_value** | **str** |  | [optional] 
+**hashed_password** | **bool** |  | [optional] 
+**hide_if** | [**ConditionProperties**](ConditionProperties.md) |  | [optional] 
+**key** | [**SettingKeyProperties**](SettingKeyProperties.md) |  | [optional] 
+**name** | **str** |  | [optional] 
+**need_restart** | **bool** |  | [optional] 
+**need_restart_message** | **str** |  | [optional] 
+**need_restart_message_id** | **str** |  | [optional] 
+**placeholder** | **str** |  | [optional] 
+**placeholder_id** | **str** |  | [optional] 
+**possible_values** | [**list[PossibleValueProperties]**](PossibleValueProperties.md) |  | [optional] 
+**profiles** | **list[str]** |  | [optional] 
+**setting_changed_event_types** | **list[str]** |  | [optional] 
+**show_if** | [**ConditionProperties**](ConditionProperties.md) |  | [optional] 
+**tooltip** | **str** |  | [optional] 
+**tooltip_id** | **str** |  | [optional] 
+**true_value** | **str** |  | [optional] 
+**units_label** | **str** |  | [optional] 
+**units_label_id** | **str** |  | [optional] 
+**validations** | [**ValidationProperties**](ValidationProperties.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
