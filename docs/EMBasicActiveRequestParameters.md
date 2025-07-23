@@ -1,0 +1,12 @@
+# EMBasicActiveRequestParameters
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**annotation_category** | **str** |  | [optional] 
+**annotation_notes** | **str** |  | [optional] 
+**ctm_name** | **str** |  | [optional] 
+**net_name** | **str** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
